@@ -3,9 +3,11 @@ I'm a DevOps Engineer passionate about building scalable and efficient cloud sol
 
 ## 🚀 Skills & Expertise
 - **Cloud Platforms:** Azure, AWS
-- **Infrastructure as Code:** Terraform, Ansible
-- **CI/CD:** Azure DevOps, Jenkins
-- **Containers:** Docker, Kubernetes
+- **Infrastructure as Code:** Terraform, Terraform Cloud, Ansible
+- **CI/CD:** Azure DevOps, Jenkins, Git, Azure Repos
+- **Containers:** Docker, Kubernetes, AKS, EKS
+- **Programming:** Java, Python, Shell Scripting
+- **Build Tool:** Maven
 
 ## 🌐 Find Me Online
 - [LinkedIn](https://www.linkedin.com/in/ritesh-kumar-nayak/)

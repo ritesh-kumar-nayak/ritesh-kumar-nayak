@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Ritesh! 👋
+I'm a DevOps Engineer passionate about building scalable and efficient cloud solutions.  
 
-<!--
-**ritesh-kumar-nayak/ritesh-kumar-nayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills & Expertise
+- **Cloud Platforms:** Azure, AWS
+- **Infrastructure as Code:** Terraform, Ansible
+- **CI/CD:** Azure DevOps, Jenkins
+- **Containers:** Docker, Kubernetes
 
-Here are some ideas to get you started:
+## 🌐 Find Me Online
+- [LinkedIn](https://www.linkedin.com/in/ritesh-kumar-nayak/)
+- [Blog](www.devopswithritesh.in)
+- [GitHub](https://github.com/ritesh-kumar-nayak)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesh-kumar-nayak&show_icons=true)

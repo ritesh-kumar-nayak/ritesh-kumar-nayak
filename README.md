@@ -4,7 +4,7 @@ I'm a DevOps Engineer passionate about building scalable and efficient cloud sol
 ## 🚀 Skills & Expertise
 - **Cloud Platforms:** Azure, AWS
 - **Infrastructure as Code:** Terraform, Terraform Cloud, Ansible
-- **CI/CD:** Azure DevOps, Jenkins, Git, Azure Repos
+- **CI/CD:** Azure DevOps, Jenkins, Git, Azure Repos, ArgoCD
 - **Containers:** Docker, Kubernetes, AKS, EKS
 - **Programming:** Java, Python, Shell Scripting
 - **Build Tool:** Maven
